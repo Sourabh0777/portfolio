@@ -39,6 +39,10 @@ const About = () => {
                 <span>{introduction.text[1]}</span>
                 <span>{introduction.text[2]}</span>
                 <span>{introduction.text[3]}</span>
+                <span>{introduction.text[4]}</span>
+                <span>{introduction.text[5]}</span>
+
+
               </m.p>
             </LazyMotion>
           </div>

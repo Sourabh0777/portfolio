@@ -29,6 +29,9 @@ import neoIcon from './tech/neo.png';
 import raspIcon from './tech/raspi.png';
 import close from './close.svg';
 import menu from './menu.svg';
+import mongoDb from './tech/mongoDb.png';
+import express from './tech/express.png';
+
 
 // Projects
 import pawsitivePrototype from './projects/pawsitive.jpeg';
@@ -36,7 +39,7 @@ import calculator from './projects/calculator.jpg';
 import memoryGame from './projects/memory.jpg';
 
 // Avatar
-import avatar from './avatar/avatar.png';
+import avatar from './avatar/sourabh_preview_rev_1.png';
 
 export {
   menu,
@@ -62,4 +65,6 @@ export {
   memoryGame,
   avatar,
   bl33hIcon,
+  mongoDb,
+  express
 };

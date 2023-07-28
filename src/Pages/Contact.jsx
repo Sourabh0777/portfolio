@@ -38,11 +38,6 @@ const Contact = () => {
       </div>
       <div className="w-full flex flex-col">
         <SocialLinks />
-        <div className="bg-grayscale-950 flex justify-center pb-4 text-grayscale-50">
-          <span>
-            Made by <em>Sara Echeverría (bl33h)</em>
-          </span>
-        </div>
       </div>
     </div>
   );
